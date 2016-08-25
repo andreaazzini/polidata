@@ -11,7 +11,7 @@ Install Express.js.
 npm install express
 ```
 
-Move the `data` folder of your [Polisculptor](https://github.com/andreaazzini/polisculptor) project into the root folder of this project.
+Move the `data/export` content of your [Polisculptor](https://github.com/andreaazzini/polisculptor) project into the `data` folder of this project.
 
 Generate the pages and the routes.
 
